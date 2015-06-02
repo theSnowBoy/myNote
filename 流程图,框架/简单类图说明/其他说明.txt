@@ -1,0 +1,1 @@
+1、BaseFragment 的类图及相应负责的功能，类似于 BaseActivity.
